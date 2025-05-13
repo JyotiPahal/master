@@ -1,0 +1,6 @@
+com/example/utils/LoggerFactory.class
+com/example/pages/EbayFlowPage.class
+com/example/utils/PropertyReader.class
+com/example/pages/LoginPage.class
+com/example/utils/AppiumDriverConfig.class
+com/example/pages/RegisterPage.class
